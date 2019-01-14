@@ -1,0 +1,30 @@
+Mohammad Mattar, Anas Milhem
+
+
+				Situation Software organizations 
+Analysis:
+
+1. Analyze what software the organization makes.
+2. Analyze what value that product offers.
+3. Analyze how the organization is funded.
+4. Analyze who the product is intended for.
+5. Analyze the relationship between the organization's funding and the software's value.
+6. Analyze what the software automates.
+7. Identify other organizations that offer the same value.
+8. Synthesize all of the above into a story about the organization's role in society.
+
+BluePrism:					
+
+1. BluePrism v6, a software that would automate business led tasks.
+2. To automate and eliminate meaningless tasks to rid of time waste.
+3. Businesses/corporations pay for licensing for the software 
+4. Business professionals with no coding experience
+5. The more easier the software allows business folks to automate their tasks, the more purchasing of the software will occur.
+6. To automate and eliminate meaningless tasks to rid of time waste.
+7. Microsoft, ServiceNow, and UiPath
+8. BluePrism’s role in society is to help organizations around the world in business be more efficient and productive.
+
+Analysis Overview:
+
+1. The future envisioned by the company is good, as technology advances people tend to get lazier and they expect more output for their work.
+2. I would be interested in the development of the software, yes.
